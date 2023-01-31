@@ -12,7 +12,8 @@ document.querySelector('#app').innerHTML = `
       <input type="number" class="form-control" id="number-2">
 </div>
 
-<button id="add" class="btn btn-primary mb-3">Add</button>
+<button id="add" class="btn btn-primary mb-3">Add</button> 
+<button id="multiply" class="btn btn-primary mb-3">Multiply</button>
 <div class="mt-5 rounded border p-5 bg-secondary text-white">
       Result: <div id="result">
 </div>
